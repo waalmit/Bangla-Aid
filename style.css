@@ -83,5 +83,84 @@ h2 {
     color: rgb(255, 94, 0);
 }
 
-/*section-two end */
 
+.section-four {
+    text-align: center;
+    font-size: 20px;
+
+}
+
+.title p {
+    font-size: 20px;
+    color: #7e7777;
+    margin-bottom: 100px;
+
+}
+
+
+.box {
+    width: 26%;
+}
+
+.donation {
+    display: flex;
+    margin: 40px 80px;
+    margin-left: 200px;
+    margin-bottom: 100px;
+
+}
+
+.donation p {
+    color: #7e7777;
+    font-size: 20px;
+}
+
+#one {
+    background-color: #F6DDCC;
+    margin: 5px 10px;
+    padding: 60px 30px;
+    text-align: left;
+    border-radius: 5px;
+}
+
+#two {
+    background-color: #D0ECE7;
+    margin: 5px 10px;
+    padding: 60px 30px;
+    text-align: left;
+    border-radius: 5px;
+}
+
+#three {
+    background-color: #F9E79F;
+    margin: 5px 10px;
+    padding: 60px 30px;
+    text-align: left;
+    border-radius: 5px;
+    
+}
+
+.sub{
+    display: flex;
+}
+
+.ses{
+    background-color: whitesmoke;
+    position: center; 
+    color: orange;
+    
+    ;
+}
+.last-part {
+    text-align: center;
+    color: white;
+    background-color: rgb(144, 144, 208);
+    padding: 20px;
+    font-size: 15px;
+}
+
+.last-part h3 {
+    font-size: 20px;
+    font-family: Verdana, Geneva, Tahoma, sans-serif;
+    color: whitesmoke;
+}
