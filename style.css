@@ -1,0 +1,87 @@
+body {
+    margin: 0px;
+    font-family:Verdana, Geneva, Tahoma, sans-serif;
+    font-family: Cambria, Cochin, Georgia, Times, 'Times New Roman', serif;
+    font-family: 'Times New Roman', Times, serif;
+}
+
+h1 {
+    font-size: 50px;
+}
+
+h2 {
+    font-size: 30px;
+}
+
+/*section-one start */
+
+.section-one p {
+    font-weight: 120;
+    padding-bottom: 20px;
+}
+
+.section-one {
+    background-image: url(images/donation9.jpg);
+
+    background-repeat: no-repeat;
+    background-position: center;
+    background-size: cover;
+    background-attachment: fixed;
+    height: 500px;
+    padding-top: 100px;
+    padding-left: 10%;
+    padding-right: 10%;
+    text-align: center;
+    color: whitesmoke; 
+
+}
+
+.button {
+    background-color: tomato;
+    color: white;
+    text-decoration: none;
+    padding: 15px 30px;
+    border-radius: 3px;
+    font-size: 20px;
+
+
+}
+
+/*section-one end */
+
+
+/*section-two start */
+.section-two {
+    text-align: center;
+
+}
+
+.section-two p {
+    color:black;
+    font-size: 20px;
+}
+
+.container {
+    display: flex;
+    margin-right: 90px;
+    margin-left: 90px;
+}
+
+.width {
+    width: 20%;
+    background-color: #F7F9F9;
+    text-align: center;
+    margin: 6px 12px;
+    color:#85C1E9;
+    margin-top: 50px;
+    margin-left: 80px;
+    margin-bottom: 30px;
+}
+
+#color{
+    border:orangered 3px;
+    color: rgb(255, 94, 0);
+}
+
+/*section-two end */
+
